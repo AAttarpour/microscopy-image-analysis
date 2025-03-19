@@ -134,9 +134,6 @@ This repository is intended for **research and educational purposes**. Contact t
 
 ---
 
-This README provides a **structured**, **professional**, and **detailed** overview of your repository. It's ready to be copied and pasted into **README.md** on GitHub! 🚀 Let me know if you want any modifications. 🔬
-
-
 
 
 
